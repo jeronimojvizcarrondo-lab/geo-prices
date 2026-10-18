@@ -116,13 +116,44 @@ def one_symbol(sym, daily, h1, derr, herr):
     return out
 
 
+PREV_PATH = None  # set in main(): the previous prices.json, used to carry forward macro values when FRED fails
+
+
+def fred_series_30(sid):
+    """watch.py's fred_series with a 30 s timeout (Actions runners saw FRED time out at 10 s on 18 Oct)."""
+    import pandas as pd
+    df = W.http_csv(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={sid}", 30)
+    s = pd.to_numeric(df[sid], errors="coerce")
+    s.index = pd.to_datetime(df.iloc[:, 0])
+    s = s.dropna()
+    if len(s) < 6:
+        raise ValueError("too few observations")
+    return s
+
+
+def carry_forward(macro):
+    """FRED null -> last known value from PREV_PATH, tagged; never a silent blank (v5 rule: plumbing can't veto)."""
+    try:
+        prev = json.loads(Path(PREV_PATH).read_text(encoding="utf-8")) if PREV_PATH and Path(PREV_PATH).exists() else None
+    except Exception:
+        prev = None
+    if not prev:
+        return macro
+    for sid, m in macro.items():
+        pm = (prev.get("macro") or {}).get(sid) or {}
+        if m["value"] is None and pm.get("value") is not None:
+            m.update({"value": pm["value"], "date": pm.get("date"), "chg_5d": pm.get("chg_5d"),
+                      "why": f"carried forward from {prev.get('generated_utc')} ({m['why']})"})
+    return macro
+
+
 def macro_block():
     res = {}
     with ThreadPoolExecutor(max_workers=5) as ex:
-        futs = {sid: ex.submit(W.fred_series, sid) for sid, _ in FRED}  # 10 s timeout inside
+        futs = {sid: ex.submit(fred_series_30, sid) for sid, _ in FRED}  # 30 s timeout inside
         for sid, nm in FRED:
             try:
-                s = futs[sid].result(timeout=20)
+                s = futs[sid].result(timeout=45)
                 res[sid] = {"name": nm, "value": r(s.iloc[-1], 3), "date": str(s.index[-1].date()),
                             "chg_5d": r(s.iloc[-1] - s.iloc[-6], 3), "why": None}
             except Exception as e:
@@ -179,6 +210,7 @@ def build():
         macro = {sid: {"name": nm, "value": None, "date": None, "chg_5d": None,
                        "why": "macro block failed: " + W.short(e, 6)} for sid, nm in FRED}
     ex.shutdown(wait=False, cancel_futures=True)
+    macro = carry_forward(macro)
     for sid, m in macro.items():
         if m["why"]:
             errors.append(f"{sid}: {m['why']}")
@@ -237,12 +269,16 @@ def main():
         pass
 
     out_dir = Path(a.out) if a.out else DEFAULT_DIR
+    global PREV_PATH
+    PREV_PATH = out_dir / "prices.json" if (out_dir / "prices.json").exists() else HERE / "prices.json"
     if not a.dry_run and not a.no_git and not (out_dir / ".git").exists():
         print(SETUP.format(d=out_dir, x=HERE / "geo-prices-bridge.xml"))
         log(False, f"no git checkout at {out_dir}")
         return 2
 
     try:
+        if not a.dry_run and not getattr(a, 'no_git', False) and (out_dir / '.git').exists():
+            git(out_dir, 'pull', '-q', '--ff-only', 'origin', 'main')  # Actions may have pushed first
         data = build()
     except Exception as e:
         log(False, "compute failed: " + W.short(e, 10))
