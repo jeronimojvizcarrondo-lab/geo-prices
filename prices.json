@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-10-18T13:28:49Z",
- "generated_uk": "2026-10-18 14:28 BST",
+ "generated_utc": "2026-10-18T13:31:32Z",
+ "generated_uk": "2026-10-18 14:31 BST",
  "source": "tools/push_prices.py (GitHub Actions, yfinance)",
  "symbols": {
   "BZ=F": {
@@ -385,7 +385,7 @@
  },
  "spreads": {
   "asof": "2026-10-16",
-  "fetched_utc": "2026-10-18T13:28:52Z",
+  "fetched_utc": "2026-10-18T13:31:34Z",
   "unit": "$/bbl",
   "why": null,
   "brent": {
@@ -423,7 +423,7 @@
  },
  "crack_321": {
   "asof": "2026-10-16",
-  "fetched_utc": "2026-10-18T13:28:55Z",
+  "fetched_utc": "2026-10-18T13:31:35Z",
   "unit": "$/bbl",
   "value": 55.15,
   "rb": 3.1443,
@@ -433,7 +433,7 @@
  },
  "gld_tonnes": {
   "asof": "2026-10-15",
-  "fetched_utc": "2026-10-18T13:28:55Z",
+  "fetched_utc": "2026-10-18T13:31:36Z",
   "tonnes": 1053.91,
   "chg_1d": -0.29,
   "source": "xlsx",
@@ -441,7 +441,7 @@
  },
  "hormuz_7d": {
   "asof": "2026-10-11",
-  "fetched_utc": "2026-10-18T13:28:58Z",
+  "fetched_utc": "2026-10-18T13:31:37Z",
   "n_total": 2,
   "n_tanker": 1,
   "mean_7d": 4.14,
@@ -451,7 +451,7 @@
  },
  "eia_weekly": {
   "asof": null,
-  "fetched_utc": "2026-10-18T13:29:08Z",
+  "fetched_utc": "2026-10-18T13:31:41Z",
   "crude_stocks": null,
   "natgas_storage": null,
   "why": "EIA_KEY not set"
