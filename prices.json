@@ -1,7 +1,7 @@
 {
- "generated_utc": "2026-10-18T12:53:33Z",
- "generated_uk": "2026-10-18 13:53 BST",
- "source": "bridge push_prices.py (yfinance local)",
+ "generated_utc": "2026-10-18T13:28:49Z",
+ "generated_uk": "2026-10-18 14:28 BST",
+ "source": "tools/push_prices.py (GitHub Actions, yfinance)",
  "symbols": {
   "BZ=F": {
    "last": 109.86,
@@ -135,12 +135,12 @@
    "prev_bar_date": "2026-10-15",
    "pct_1d": -3.71,
    "pct_5d": -3.23,
-   "atr14": 0.1415,
+   "atr14": 0.1414,
    "ema20": 3.1075,
    "ema50": 3.0139,
    "trend": "UP",
-   "ema20_4h": 3.198,
-   "ema50_4h": 3.1838,
+   "ema20_4h": 3.1978,
+   "ema50_4h": 3.1837,
    "dist4h": -0.58,
    "dip_zone": false,
    "bar_date": "2026-10-16",
@@ -349,43 +349,43 @@
  "macro": {
   "DFII10": {
    "name": "10y real yield (%)",
-   "value": 2.78,
-   "date": "2026-10-15",
-   "chg_5d": -0.14,
-   "why": null
+   "value": null,
+   "date": null,
+   "chg_5d": null,
+   "why": "FRED unavailable: timeout"
   },
   "VIXCLS": {
    "name": "VIX",
-   "value": 16.46,
-   "date": "2026-10-15",
-   "chg_5d": 1.05,
-   "why": null
+   "value": null,
+   "date": null,
+   "chg_5d": null,
+   "why": "FRED unavailable: timeout"
   },
   "OVXCLS": {
    "name": "OVX",
-   "value": 49.13,
-   "date": "2026-10-15",
-   "chg_5d": 0.73,
-   "why": null
+   "value": null,
+   "date": null,
+   "chg_5d": null,
+   "why": "FRED unavailable: timeout"
   },
   "GVZCLS": {
    "name": "GVZ",
-   "value": 22.34,
-   "date": "2026-10-15",
-   "chg_5d": -0.34,
-   "why": null
+   "value": null,
+   "date": null,
+   "chg_5d": null,
+   "why": "FRED unavailable: timeout"
   },
   "DTWEXBGS": {
    "name": "Broad dollar index",
-   "value": 121.602,
-   "date": "2026-10-09",
-   "chg_5d": 0.218,
-   "why": null
+   "value": null,
+   "date": null,
+   "chg_5d": null,
+   "why": "FRED unavailable: timeout"
   }
  },
  "spreads": {
   "asof": "2026-10-16",
-  "fetched_utc": "2026-10-18T12:53:34Z",
+  "fetched_utc": "2026-10-18T13:28:52Z",
   "unit": "$/bbl",
   "why": null,
   "brent": {
@@ -423,7 +423,7 @@
  },
  "crack_321": {
   "asof": "2026-10-16",
-  "fetched_utc": "2026-10-18T12:53:36Z",
+  "fetched_utc": "2026-10-18T13:28:55Z",
   "unit": "$/bbl",
   "value": 55.15,
   "rb": 3.1443,
@@ -433,7 +433,7 @@
  },
  "gld_tonnes": {
   "asof": "2026-10-15",
-  "fetched_utc": "2026-10-18T12:53:36Z",
+  "fetched_utc": "2026-10-18T13:28:55Z",
   "tonnes": 1053.91,
   "chg_1d": -0.29,
   "source": "xlsx",
@@ -441,7 +441,7 @@
  },
  "hormuz_7d": {
   "asof": "2026-10-11",
-  "fetched_utc": "2026-10-18T12:53:37Z",
+  "fetched_utc": "2026-10-18T13:28:58Z",
   "n_total": 2,
   "n_tanker": 1,
   "mean_7d": 4.14,
@@ -451,12 +451,17 @@
  },
  "eia_weekly": {
   "asof": null,
-  "fetched_utc": "2026-10-18T12:53:44Z",
+  "fetched_utc": "2026-10-18T13:29:08Z",
   "crude_stocks": null,
   "natgas_storage": null,
   "why": "EIA_KEY not set"
  },
  "errors": [
-  "eia_weekly: EIA_KEY not set"
+  "eia_weekly: EIA_KEY not set",
+  "DFII10: FRED unavailable: timeout",
+  "VIXCLS: FRED unavailable: timeout",
+  "OVXCLS: FRED unavailable: timeout",
+  "GVZCLS: FRED unavailable: timeout",
+  "DTWEXBGS: FRED unavailable: timeout"
  ]
 }
