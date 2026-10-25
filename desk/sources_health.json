@@ -1,0 +1,2133 @@
+{
+ "agencia-brasil-economia": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:17Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "agencia-brasil-english-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:53Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "agencia-brasil-pt-br-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:54Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "agweb": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:57Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-agweb",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "argus-media-free-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:http202",
+  "last_swap_hit": "2026-10-25T18:11:38Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "baker-hughes-rig-count": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:06:55Z",
+  "miss_streak": 3,
+  "stale": true,
+  "swap": "fb-baker-hughes-rig-count",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "baltic-bdti-bcti-or-hellenic-shipping-news-mirro": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "baltic-exchange-free-front-page": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "bcb-copom-page": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:55Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "bcb-focus-expectations-api": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:00Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "bcb-sgs-selic-brl-focus-sources-md-3": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:00Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "bcb-sgs-selic-target-api": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:01Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "bhp-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:56Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-bhp-news",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "bloomberg-linea-rss-latam": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "bls-api-v1-cpi-u-all-items-public-no-key": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:01Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "bls-calendar-ics": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:01Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-bls-calendar-ics",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "bls-release-calendar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:01Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-bls-release-calendar",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "bolsa-de-cereales-ba-pas-sources-md-12": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:32Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "bolsa-de-cereales-buenos-aires-weekly": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:48Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-bolsa-de-cereales-buenos-aires-weekly",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "bridge-prices-json": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:06Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "brownfield-ag-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:57Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "centcom-news-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:57Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "centcom-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:57Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-centcom-press-releases",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "cftc-cot-disaggregated-futures-only": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-landing-page": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-legacy-futures-only": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-lf-page-cbot": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-lf-page-cme": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-lf-page-comex": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cftc-cot-lf-page-nymex": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "chile-ine": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:46Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "china-gacc-monthly-sources-md-16": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:ssl",
+  "last_swap_hit": "2026-10-25T18:07:06Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-copper-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "clarksons-vlcc-recap-via-hellenic-shipping-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:03Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "cme-fedwatch": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "timeout",
+  "last_swap_hit": "2026-10-25T18:08:18Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-cme-fedwatch",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "cme-settlements-curve-sources-md-21": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "timeout",
+  "last_swap_hit": "2026-10-25T18:08:32Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "cnn-brasil-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "cochilco": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:10Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cochilco-la-rueda-boletin-sources-md-15": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "cochilco-reports-layer-d": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:47Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "codelco-press-room": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "comex-stat-sources-md-13": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:12Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "commodity-context-rory-johnston": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "conab-safra-calendar-boletim-sources-md-11": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "conab-safras": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:ssl",
+  "last_swap_hit": "2026-10-25T18:07:14Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "dht-holdings-investor-relations-quarterly-result": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:17Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "eia-api-v2-weekly-crude-stocks": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "skipped:no_key",
+  "miss_streak": 0,
+  "stale": true,
+  "swap": null,
+  "terms": "ok"
+ },
+ "eia-api-v2-weekly-natgas-storage": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "skipped:no_key",
+  "miss_streak": 0,
+  "stale": true,
+  "swap": null,
+  "terms": "ok"
+ },
+ "eia-natgas-storage-thursday": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "eia-press-room-rss": {
+  "last_hit": null,
+  "last_status": null,
+  "miss_streak": 0,
+  "stale": true,
+  "swap": null,
+  "terms": "ok"
+ },
+ "eia-steo": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:19Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "eia-this-week-in-petroleum": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:47Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "eia-today-in-energy-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:20Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "eia-wpsr": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:22Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "etf-com-fund-flows-tool": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:10:28Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-etf-com-fund-flows-tool",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "farm-progress": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:59Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-agweb": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:00Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-baker-hughes-rig-count": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-bhp-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:34Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-bls-calendar-ics": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-bls-release-calendar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-bolsa-de-cereales-buenos-aires-weekly": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-centcom-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:34Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-cme-fedwatch": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:29Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-eia-natgas-storage-thursday": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-etf-com-fund-flows-tool": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:29Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-fred-dexbzus-brl-per-usd": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:10Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-fred-dfii10-10y-real-yield": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:13Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-fred-dtwexbgs-broad-dollar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-fred-gvzcls-gold-vol": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-fred-ovxcls-crude-vol": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:40Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-iran-mfa-english": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:34Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-israel-pmo": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-lme-copper-warehouse-stocks": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-opec-momr": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-opec-momr-2": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-opec-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-opec-press-room": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-s-p-global-platts-commodity-insights-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-state-dept-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-usda-wasde": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fb-xp-investimentos-macro": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fed-beige-book": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fed-fomc-calendar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:22Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fed-h-15-rates": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fed-press-releases-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:24Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fed-speeches-calendar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "federal-register-api-ofac-documents": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "folha-mercado": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:02Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "fomc-minutes": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fred-dexbzus-brl-per-usd": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:25Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fred-dfii10-10y-real-yield": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:25Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fred-dtwexbgs-broad-dollar": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fred-gvzcls-gold-vol": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "fred-ovxcls-crude-vol": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:06:50Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "freeport-mcmoran-ir": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:37Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "frontline-investor-relations-quarterly-results-d": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:29Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "frontline-ir": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:37Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "gcaptain": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:02Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gdelt-doc-brazil": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "429",
+  "last_swap_hit": "2026-10-25T18:09:02Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-brazil-bull-en",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "gdelt-doc-copper": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:04Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gdelt-doc-corn": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "429",
+  "last_swap_hit": "2026-10-25T18:09:07Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "gdelt-doc-gold": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "429",
+  "last_swap_hit": "2026-10-25T18:09:12Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-gold-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "gdelt-doc-oil": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "429",
+  "last_swap_hit": "2026-10-25T18:09:13Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "gdelt-doc-tankers": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "429",
+  "last_swap_hit": "2026-10-25T18:09:17Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-tankers-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "gdelt-doc-wheat": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:17Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-baltic-prints-hsn-mirror": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-brasil-alta-pt-br": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-brasil-queda-pt-br": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-brazil-bear-en": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-brazil-bull-en": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-cme-fedwatch-mirror": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-copom-expectativa-selic-pt-br": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-copper-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-copper-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-corn-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-corn-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:34Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-crop-progress-poll": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-eia-crude-consensus-api-investinglive": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-fed-dove": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:34Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-fed-hawk": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:38Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-frontline-fro": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-gold-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:46Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-gold-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-goldman-citi-copper-forecasts": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:53Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-helima-croft": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:36Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-javier-blas-bloomberg": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-karen-braun": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:53Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-nfp-consensus-reuters-poll": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-nick-timiraos": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-oil-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-oil-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:49Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-oil-de-escalation": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:49Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-oil-escalation": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:53Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-pesquisas-eleitorais-pt-br": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:09:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-rapidan-eurasia": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:03Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-reuters-analysts-expect-eia-crude": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-reuters-markets": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:17Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-reuters-oil": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-risk-off-spy-gauge": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:03Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-risk-on-spy-gauge": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-tankers-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:13Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-tankers-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-ukmto-recent-incidents": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-us-cpi-consensus-reuters-poll": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:04Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-wasde-previews-allendale-agresource-farm-futu": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-wasde-trade-estimates": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:13Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-wheat-bear": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "gn-wheat-bull": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "grain-central-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:18Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "hellenic-shipping-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "icsg-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "iea-oil-market-report-monthly-highlights": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:48Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "imf-portwatch": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:30Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "imf-portwatch-hormuz-daily-transits-arcgis-json": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:30Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "infomoney": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "iran-mfa-english": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:58Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "israel-pmo": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:58Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-israel-pmo",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "jmic-advisories": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:38Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-ukmto-recent-incidents",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "joseph-wang-fedguy": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T16:48:54Z",
+  "last_status": "error:http202",
+  "miss_streak": 1,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "kalshi-markets-read-only": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:21Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "kpler-insights-blog": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:19Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "kremlin-ru-english-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:01Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "lme-copper-warehouse-stocks": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:52Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-lme-copper-warehouse-stocks",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "metals-focus": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "mining-com": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:10:25Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-copper-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "nd-mais-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:25Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "noaa-cpc-6-10-day-outlook": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:30Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "noaa-cpc-8-14-day-outlook": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:31Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "noaa-nhc-outlook-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:32Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "ofac-recent-actions": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:02Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "ofac-recent-actions-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:02Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "oilprice-com-main": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:26Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "opec-momr": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:38Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-opec-momr-2",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "opec-momr-monthly-layer-d": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:50Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "opec-momr-press-sources-md-22": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:39Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-oil-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "opec-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:03Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-opec-press-releases",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "opec-press-room": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:39Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-opec-press-room",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "planalto-brazil-presidency-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:03Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "poder360-pesquisas-poderdata": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:25Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "polymarket-gamma-read-only": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:21Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "rio-times-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "s-p-global-platts-commodity-insights-news": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:52Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-s-p-global-platts-commodity-insights-news",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "scorpio-tankers-ir": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:42Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "secex-mdic-trade-balance-weekly": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:ssl",
+  "last_swap_hit": "2026-10-25T18:07:33Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-brazil-bull-en",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "sernageomin": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:ssl",
+  "last_swap_hit": "2026-10-25T18:07:35Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-copper-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "shfe-english-weekly-warehouse-stocks": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:52Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "shfe-weekly-inventory-copper-warehouse-stocks": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "spdr-gld-holdings": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:22Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "splash247": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "state-dept-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:07Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-state-dept-press-releases",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "state-dept-press-releases-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:07Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-state-dept-press-releases",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "stockanalysis-fro-quote-gate-price-fallback": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "suez-canal-authority": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:42Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "teucrium-corn-fund": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:22Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "tradingeconomics-calendar-consensus-column": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:28Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "tradingeconomics-fro-quote-gate-price-fallback": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:11:38Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "tradingeconomics-us-crude-stocks-change": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:29Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "tradingeconomics-us-natgas-stocks-change": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:29Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "treasury-press-releases": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:08Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "treasury-real-yield-curve-daily-table": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "truth-social-mirror-trumpstruth-org-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "tse-results": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:35Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "ukmto-advisories": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:47Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "ukmto-recent-incidents-page": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:47Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "ukraine-mfa-english": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:08:09Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-wheat-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "us-drought-monitor": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:36Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "uscf-bno-fund": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:22Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "uscf-ung-fund": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:23Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-ams-grain-transportation-report": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:51Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-crop-progress-cornell-mirror": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:37Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-ers-feed-outlook": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:52Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-ers-wheat-outlook": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:52Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-fas-esr": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:41Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-fas-export-sales-esr-api": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:41Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "usda-fas-export-sales-weekly-highlights-pdf": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "error:http404",
+  "last_swap_hit": "2026-10-25T18:07:42Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "usda-nass-quick-stats-api-corn-harvested": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "skipped:no_key",
+  "miss_streak": 0,
+  "stale": true,
+  "swap": null,
+  "terms": "ok"
+ },
+ "usda-wasde": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:07:42Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-usda-wasde",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "usda-wasde-cornell-mirror": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:07:43Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "usda-wasde-nass-quickstats-api-sources-md-6": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "robots",
+  "last_swap_hit": "2026-10-25T18:07:46Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-corn-bull",
+  "swap_status": "ok",
+  "terms": "unknown"
+ },
+ "valor-economico-globo-feed": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:10:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "vortexa-insights": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:30Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "wgc-gold-demand-trends-goldhub": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:57Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "wgc-gold-etf-flows": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:27Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "white-house-news-briefings-statements-presidenti": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:12Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "white-house-presidential-actions-rss": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:15Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ },
+ "windward-maritime-ai-blog": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:12:33Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "unknown"
+ },
+ "xp-investimentos-macro": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": null,
+  "last_status": "403",
+  "last_swap_hit": "2026-10-25T18:12:34Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "fb-xp-investimentos-macro",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
+ "yahoo-chart-api-prices": {
+  "last_attempt": "2026-10-25T18:06:44Z",
+  "last_hit": "2026-10-25T18:08:48Z",
+  "last_status": "ok",
+  "miss_streak": 0,
+  "stale": false,
+  "swap": null,
+  "terms": "ok"
+ }
+}
