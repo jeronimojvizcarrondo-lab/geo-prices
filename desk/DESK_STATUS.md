@@ -1,9 +1,9 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-10-25T20:45:34Z — status: OK
-- Price file age: 46.1 hours (generated 2026-10-23T22:40:43Z, read from raw-url) — not stale.
+- v6 Actions 2026-10-26T14:02:05Z — status: DEGRADED: price file is stale (63.4 h old)
+- Price file age: 63.4 hours (generated 2026-10-23T22:40:43Z, read from raw-url) — STALE: it predates the last scheduled update.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 186 ok / 40 missing / 39 swapped; 1 skipped (key not set).
+- Source health: 184 ok / 42 missing / 38 swapped; 1 skipped (key not set).
 - Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=0 open=3 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/3 · open marks Σ -1.15R
 
 ## Gate verdict by market (conditions (a), (b), (f) are not supplied by the runner, so they default to FAIL)
