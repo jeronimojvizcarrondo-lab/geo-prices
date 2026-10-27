@@ -1,9 +1,9 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-10-27T20:58:39Z — status: DEGRADED: price file is stale (4.1 h old)
-- Price file age: 4.1 hours (generated 2026-10-27T16:53:41Z, read from raw-url) — STALE: it predates the last scheduled update.
+- v6 Actions 2026-10-27T23:41:22Z — status: OK
+- Price file age: 0.4 hours (generated 2026-10-27T23:15:05Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 186 ok / 40 missing / 38 swapped; 1 skipped (key not set).
+- Source health: 180 ok / 46 missing / 40 swapped; 1 skipped (key not set).
 - Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=0 open=3 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/3 · open marks Σ +3.15R
 
 ## Gate verdict by market (conditions (a), (b), (f) are not supplied by the runner, so they default to FAIL)
@@ -21,25 +21,25 @@
 
 | symbol | last | 1d % | trend | dip_zone | asof |
 |---|---|---|---|---|---|
-| BZ=F | 109.62 | -5.34 | UP | True | 2026-10-27 |
-| FRO | 54.34 | -1.61 | UP | True | 2026-10-27 |
-| HG=F | 6.651 | 2.2 | UP | False | 2026-10-27 |
-| ZC=F | 450.5 | -0.99 | DOWN | False | 2026-10-27 |
-| ZW=F | 614.25 | -0.28 | DOWN | False | 2026-10-27 |
-| GC=F | 4072.9 | 0.85 | DOWN | True | 2026-10-27 |
-| SI=F | 54.5 | 0.72 | DOWN | True | 2026-10-27 |
-| NG=F | 3.007 | 15.56 | FLAT | False | 2026-10-27 |
-| EWZ | 34.47 | 0.92 | FLAT | False | 2026-10-27 |
-| SPY | 769.22 | 0.5 | UP | True | 2026-10-27 |
-| BNO | 69.43 | -0.91 | UP | False | 2026-10-27 |
-| SCO | 16.27 | 0.93 | DOWN | False | 2026-10-27 |
-| GLD | 372.07 | 1.16 | DOWN | True | 2026-10-27 |
-| CPER | 39.99 | 1.51 | UP | False | 2026-10-27 |
-| COPX | 76.35 | 3.43 | DOWN | True | 2026-10-27 |
-| CORN | 17.47 | -0.91 | DOWN | False | 2026-10-27 |
-| WEAT | 22.43 | -0.5 | DOWN | False | 2026-10-27 |
-| UNG | 9.465 | -0.99 | DOWN | False | 2026-10-27 |
-| SLV | 49.11 | 0.93 | DOWN | False | 2026-10-27 |
+| BZ=F | 109.5 | -5.45 | UP | True | 2026-10-27 |
+| FRO | 53.77 | -2.64 | UP | True | 2026-10-27 |
+| HG=F | 6.6565 | 2.28 | UP | False | 2026-10-27 |
+| ZC=F | 450.0 | -1.1 | DOWN | False | 2026-10-27 |
+| ZW=F | 611.0 | -0.81 | DOWN | False | 2026-10-27 |
+| GC=F | 4075.8 | 0.93 | DOWN | True | 2026-10-27 |
+| SI=F | 54.53 | 0.79 | DOWN | True | 2026-10-27 |
+| NG=F | 3.053 | 17.33 | FLAT | False | 2026-10-27 |
+| EWZ | 34.3 | 0.44 | FLAT | False | 2026-10-27 |
+| SPY | 769.66 | 0.56 | UP | True | 2026-10-27 |
+| BNO | 69.67 | -0.57 | UP | False | 2026-10-27 |
+| SCO | 16.25 | 0.81 | DOWN | False | 2026-10-27 |
+| GLD | 372.28 | 1.21 | DOWN | True | 2026-10-27 |
+| CPER | 40.05 | 1.68 | UP | False | 2026-10-27 |
+| COPX | 76.68 | 3.89 | DOWN | True | 2026-10-27 |
+| CORN | 17.44 | -1.08 | DOWN | False | 2026-10-27 |
+| WEAT | 22.35 | -0.84 | DOWN | False | 2026-10-27 |
+| UNG | 9.64 | 0.84 | DOWN | False | 2026-10-27 |
+| SLV | 49.16 | 1.03 | DOWN | False | 2026-10-27 |
 
 Real-yield data (FRED) newest date: 2026-10-19; stale: True.
 Gate legs not evaluable: fed real-yield leg.
