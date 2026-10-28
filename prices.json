@@ -1,21 +1,21 @@
 {
- "generated_utc": "2026-10-28T20:55:03Z",
- "generated_uk": "2026-10-28 20:55 GMT",
- "source": "bridge push_prices.py (yfinance local)",
+ "generated_utc": "2026-10-28T23:39:49Z",
+ "generated_uk": "2026-10-28 23:39 GMT",
+ "source": "tools/push_prices.py (GitHub Actions, yfinance)",
  "symbols": {
   "BZ=F": {
-   "last": 110.54,
+   "last": 110.59,
    "prev_close": 113.88,
    "prev_bar_date": "2026-10-27",
-   "pct_1d": -2.93,
-   "pct_5d": 1.58,
-   "atr14": 4.18,
+   "pct_1d": -2.89,
+   "pct_5d": 1.63,
+   "atr14": 4.11,
    "ema20": 108.63,
    "ema50": 103.03,
    "trend": "UP",
-   "ema20_4h": 110.68,
+   "ema20_4h": 110.69,
    "ema50_4h": 109.79,
-   "dist4h": -0.03,
+   "dist4h": -0.02,
    "dip_zone": true,
    "bar_date": "2026-10-28",
    "max_range_60d": 8.86,
@@ -40,18 +40,18 @@
    "why": null
   },
   "HG=F": {
-   "last": 6.6755,
+   "last": 6.68,
    "prev_close": 6.622,
    "prev_bar_date": "2026-10-27",
-   "pct_1d": 0.81,
-   "pct_5d": 2.03,
-   "atr14": 0.0911,
-   "ema20": 6.5635,
-   "ema50": 6.5449,
+   "pct_1d": 0.88,
+   "pct_5d": 2.09,
+   "atr14": 0.0884,
+   "ema20": 6.5639,
+   "ema50": 6.5451,
    "trend": "UP",
-   "ema20_4h": 6.6102,
-   "ema50_4h": 6.5838,
-   "dist4h": 0.72,
+   "ema20_4h": 6.6105,
+   "ema50_4h": 6.5837,
+   "dist4h": 0.79,
    "dip_zone": false,
    "bar_date": "2026-10-28",
    "max_range_60d": 0.311,
@@ -94,54 +94,54 @@
    "why": null
   },
   "GC=F": {
-   "last": 4083.8,
+   "last": 4064.7,
    "prev_close": 4074.6,
    "prev_bar_date": "2026-10-27",
-   "pct_1d": 0.23,
-   "pct_5d": -1.6,
-   "atr14": 76.18,
-   "ema20": 4144.25,
-   "ema50": 4232.45,
+   "pct_1d": -0.24,
+   "pct_5d": -2.06,
+   "atr14": 73.16,
+   "ema20": 4142.43,
+   "ema50": 4231.7,
    "trend": "DOWN",
-   "ema20_4h": 4058.67,
-   "ema50_4h": 4083.15,
-   "dist4h": 0.33,
+   "ema20_4h": 4056.85,
+   "ema50_4h": 4082.41,
+   "dist4h": 0.11,
    "dip_zone": true,
    "bar_date": "2026-10-28",
    "max_range_60d": 206.6001,
    "why": null
   },
   "SI=F": {
-   "last": 54.12,
+   "last": 53.92,
    "prev_close": 54.29,
    "prev_bar_date": "2026-10-27",
-   "pct_1d": -0.32,
-   "pct_5d": -5.75,
-   "atr14": 1.23,
-   "ema20": 57.44,
-   "ema50": 60.45,
+   "pct_1d": -0.69,
+   "pct_5d": -6.1,
+   "atr14": 1.17,
+   "ema20": 57.42,
+   "ema50": 60.44,
    "trend": "DOWN",
-   "ema20_4h": 54.24,
-   "ema50_4h": 55.36,
-   "dist4h": -0.1,
+   "ema20_4h": 54.22,
+   "ema50_4h": 55.35,
+   "dist4h": -0.26,
    "dip_zone": true,
    "bar_date": "2026-10-28",
    "max_range_60d": 4.93,
    "why": null
   },
   "NG=F": {
-   "last": 3.031,
+   "last": 3.009,
    "prev_close": 2.697,
    "prev_bar_date": "2026-10-27",
-   "pct_1d": 12.38,
-   "pct_5d": 8.64,
-   "atr14": 0.1674,
-   "ema20": 2.9443,
-   "ema50": 2.96,
+   "pct_1d": 11.57,
+   "pct_5d": 7.85,
+   "atr14": 0.1631,
+   "ema20": 2.9423,
+   "ema50": 2.9591,
    "trend": "FLAT",
-   "ema20_4h": 3.0279,
-   "ema50_4h": 3.0251,
-   "dist4h": 0.02,
+   "ema20_4h": 3.0259,
+   "ema50_4h": 3.0243,
+   "dist4h": -0.1,
    "dip_zone": false,
    "bar_date": "2026-10-28",
    "max_range_60d": 0.338,
@@ -352,40 +352,40 @@
    "value": 2.64,
    "date": "2026-10-27",
    "chg_5d": -0.13,
-   "why": null
+   "why": "carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
   },
   "VIXCLS": {
    "name": "VIX",
    "value": 17.52,
    "date": "2026-10-27",
    "chg_5d": 0.21,
-   "why": null
+   "why": "carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
   },
   "OVXCLS": {
    "name": "OVX",
    "value": 55.44,
    "date": "2026-10-27",
    "chg_5d": 3.33,
-   "why": null
+   "why": "carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
   },
   "GVZCLS": {
    "name": "GVZ",
    "value": 22.58,
    "date": "2026-10-27",
    "chg_5d": 0.75,
-   "why": null
+   "why": "carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
   },
   "DTWEXBGS": {
    "name": "Broad dollar index",
    "value": 121.32,
    "date": "2026-10-23",
    "chg_5d": -0.085,
-   "why": null
+   "why": "carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
   }
  },
  "spreads": {
   "asof": "2026-10-28",
-  "fetched_utc": "2026-10-28T20:55:04Z",
+  "fetched_utc": "2026-10-28T23:39:50Z",
   "unit": "$/bbl",
   "why": null,
   "brent": {
@@ -395,13 +395,13 @@
     "BZG27"
    ],
    "closes": [
-    114.32,
-    110.54,
-    107.1
+    114.19,
+    110.59,
+    107.02
    ],
    "bar_date": "2026-10-28",
-   "m1_m2": 3.78,
-   "m1_m3": 7.22,
+   "m1_m2": 3.6,
+   "m1_m3": 7.17,
    "structure": "backwardation"
   },
   "wti": {
@@ -411,52 +411,71 @@
     "CLG27"
    ],
    "closes": [
-    101.94,
-    100.16,
-    98.19
+    101.97,
+    100.24,
+    98.28
    ],
    "bar_date": "2026-10-28",
-   "m1_m2": 1.78,
-   "m1_m3": 3.75,
+   "m1_m2": 1.73,
+   "m1_m3": 3.69,
    "structure": "backwardation"
   }
  },
  "crack_321": {
   "asof": "2026-10-28",
-  "fetched_utc": "2026-10-28T20:55:06Z",
+  "fetched_utc": "2026-10-28T23:39:52Z",
   "unit": "$/bbl",
-  "value": 49.76,
-  "rb": 3.1039,
-  "ho": 4.6278,
-  "cl": 101.94,
+  "value": 49.89,
+  "rb": 3.108,
+  "ho": 4.6315,
+  "cl": 101.97,
   "why": null
  },
  "gld_tonnes": {
   "asof": "2026-10-27",
-  "fetched_utc": "2026-10-28T20:55:07Z",
+  "fetched_utc": "2026-10-28T23:39:52Z",
   "tonnes": 1041.65,
   "chg_1d": 0.85,
   "source": "xlsx",
   "why": null
  },
  "hormuz_7d": {
-  "asof": "2026-10-25",
-  "fetched_utc": "2026-10-28T20:55:08Z",
-  "n_total": 2,
-  "n_tanker": 1,
-  "mean_7d": 3.29,
-  "mean_14d": 3.5,
-  "n_rows": 14,
-  "why": null
+  "asof": null,
+  "fetched_utc": "2026-10-28T23:39:54Z",
+  "n_total": null,
+  "n_tanker": null,
+  "mean_7d": null,
+  "mean_14d": null,
+  "n_rows": 0,
+  "why": "PortWatch returned 0 rows: {'code': 400, 'message': 'Cannot perform query. Invalid query parameters.', 'details':"
  },
  "eia_weekly": {
-  "asof": null,
-  "fetched_utc": "2026-10-28T20:55:08Z",
-  "crude_stocks": null,
-  "natgas_storage": null,
-  "why": "EIA_KEY not set"
+  "asof": "2026-10-16",
+  "fetched_utc": "2026-10-28T23:40:07Z",
+  "crude_stocks": {
+   "series": "PET.WCESTUS1.W",
+   "unit": "thousand barrels",
+   "period": "2026-10-23",
+   "value": 410625.0,
+   "prior": 412517.0,
+   "change": -1892.0
+  },
+  "natgas_storage": {
+   "series": "NG.NW2_EPG0_SWO_R48_BCF.W",
+   "unit": "Bcf",
+   "period": "2026-10-16",
+   "value": 3644.0,
+   "prior": 3567.0,
+   "change": 77.0
+  },
+  "why": null
  },
  "errors": [
-  "eia_weekly: EIA_KEY not set"
+  "hormuz_7d: PortWatch returned 0 rows: {'code': 400, 'message': 'Cannot perform query. Invalid query parameters.', 'details':",
+  "DFII10: carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)",
+  "VIXCLS: carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)",
+  "OVXCLS: carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)",
+  "GVZCLS: carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)",
+  "DTWEXBGS: carried forward from 2026-10-28T20:55:03Z (FRED unavailable: timeout)"
  ]
 }
