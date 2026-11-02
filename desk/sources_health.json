@@ -1,7 +1,7 @@
 {
  "agencia-brasil-economia": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:49Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:20Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -9,8 +9,8 @@
   "terms": "ok"
  },
  "agencia-brasil-english-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:24Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:00Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -18,8 +18,8 @@
   "terms": "ok"
  },
  "agencia-brasil-pt-br-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:24Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:01Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -27,10 +27,10 @@
   "terms": "ok"
  },
  "agweb": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:28Z",
+  "last_swap_hit": "2026-11-02T21:42:02Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-agweb",
@@ -38,10 +38,10 @@
   "terms": "ok"
  },
  "argus-media-free-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "error:http202",
-  "last_swap_hit": "2026-11-02T16:56:05Z",
+  "last_swap_hit": "2026-11-02T21:44:42Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-oil-bull",
@@ -49,10 +49,10 @@
   "terms": "unknown"
  },
  "baker-hughes-rig-count": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:51:29Z",
+  "last_swap_hit": "2026-11-02T21:40:03Z",
   "miss_streak": 28,
   "stale": true,
   "swap": "fb-baker-hughes-rig-count",
@@ -60,8 +60,8 @@
   "terms": "unknown"
  },
  "baltic-bdti-bcti-or-hellenic-shipping-news-mirro": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -69,8 +69,8 @@
   "terms": "unknown"
  },
  "baltic-exchange-free-front-page": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:01Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -78,8 +78,8 @@
   "terms": "unknown"
  },
  "bcb-copom-page": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:29Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:04Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -87,8 +87,8 @@
   "terms": "unknown"
  },
  "bcb-focus-expectations-api": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:09Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -96,8 +96,8 @@
   "terms": "ok"
  },
  "bcb-sgs-selic-brl-focus-sources-md-3": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:09Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -105,8 +105,8 @@
   "terms": "ok"
  },
  "bcb-sgs-selic-target-api": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:09Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -114,10 +114,10 @@
   "terms": "ok"
  },
  "bhp-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:25Z",
+  "last_swap_hit": "2026-11-02T21:41:01Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-bhp-news",
@@ -125,8 +125,8 @@
   "terms": "unknown"
  },
  "bloomberg-linea-rss-latam": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -134,8 +134,8 @@
   "terms": "ok"
  },
  "bls-api-v1-cpi-u-all-items-public-no-key": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:10Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -143,10 +143,10 @@
   "terms": "ok"
  },
  "bls-calendar-ics": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:51:35Z",
+  "last_swap_hit": "2026-11-02T21:40:10Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-bls-calendar-ics",
@@ -154,10 +154,10 @@
   "terms": "unknown"
  },
  "bls-release-calendar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:51:35Z",
+  "last_swap_hit": "2026-11-02T21:40:15Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-bls-release-calendar",
@@ -165,10 +165,10 @@
   "terms": "unknown"
  },
  "bolsa-de-cereales-ba-pas-sources-md-12": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:01Z",
+  "last_swap_hit": "2026-11-02T21:41:37Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-corn-bull",
@@ -176,10 +176,10 @@
   "terms": "unknown"
  },
  "bolsa-de-cereales-buenos-aires-weekly": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:20Z",
+  "last_swap_hit": "2026-11-02T21:41:53Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-bolsa-de-cereales-buenos-aires-weekly",
@@ -187,8 +187,8 @@
   "terms": "unknown"
  },
  "bridge-prices-json": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:40Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:18Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -196,8 +196,8 @@
   "terms": "ok"
  },
  "brownfield-ag-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -205,8 +205,8 @@
   "terms": "ok"
  },
  "centcom-news-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:26Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:04Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -214,10 +214,10 @@
   "terms": "ok"
  },
  "centcom-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:26Z",
+  "last_swap_hit": "2026-11-02T21:41:04Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-centcom-press-releases",
@@ -225,8 +225,8 @@
   "terms": "unknown"
  },
  "cftc-cot-disaggregated-futures-only": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -234,8 +234,8 @@
   "terms": "unknown"
  },
  "cftc-cot-landing-page": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -243,8 +243,8 @@
   "terms": "unknown"
  },
  "cftc-cot-legacy-futures-only": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -252,8 +252,8 @@
   "terms": "unknown"
  },
  "cftc-cot-lf-page-cbot": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -261,8 +261,8 @@
   "terms": "unknown"
  },
  "cftc-cot-lf-page-cme": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -270,8 +270,8 @@
   "terms": "unknown"
  },
  "cftc-cot-lf-page-comex": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -279,8 +279,8 @@
   "terms": "unknown"
  },
  "cftc-cot-lf-page-nymex": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -288,8 +288,8 @@
   "terms": "unknown"
  },
  "chile-ine": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:16Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -297,10 +297,10 @@
   "terms": "unknown"
  },
  "china-gacc-monthly-sources-md-16": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "error:ssl",
-  "last_swap_hit": "2026-11-02T16:51:40Z",
+  "last_swap_hit": "2026-11-02T21:40:18Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-copper-bull",
@@ -308,8 +308,8 @@
   "terms": "unknown"
  },
  "clarksons-vlcc-recap-via-hellenic-shipping-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -317,10 +317,10 @@
   "terms": "ok"
  },
  "cme-fedwatch": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "timeout",
-  "last_swap_hit": "2026-11-02T16:52:50Z",
+  "last_swap_hit": "2026-11-02T21:41:22Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-cme-fedwatch",
@@ -328,10 +328,10 @@
   "terms": "unknown"
  },
  "cme-settlements-curve-sources-md-21": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "timeout",
-  "last_swap_hit": "2026-11-02T16:53:05Z",
+  "last_swap_hit": "2026-11-02T21:41:37Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-oil-bull",
@@ -339,8 +339,8 @@
   "terms": "unknown"
  },
  "cnn-brasil-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:33Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -348,8 +348,8 @@
   "terms": "ok"
  },
  "cochilco": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:40Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:18Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -357,8 +357,8 @@
   "terms": "unknown"
  },
  "cochilco-la-rueda-boletin-sources-md-15": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:06Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -366,8 +366,8 @@
   "terms": "unknown"
  },
  "cochilco-reports-layer-d": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:16Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -375,8 +375,8 @@
   "terms": "unknown"
  },
  "codelco-press-room": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:06Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:38Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -384,8 +384,8 @@
   "terms": "unknown"
  },
  "comex-stat-sources-md-13": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:44Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:20Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -393,8 +393,8 @@
   "terms": "unknown"
  },
  "commodity-context-rory-johnston": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:53Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:31Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -402,8 +402,8 @@
   "terms": "ok"
  },
  "conab-safra-calendar-boletim-sources-md-11": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:06Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:38Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -411,10 +411,10 @@
   "terms": "unknown"
  },
  "conab-safras": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": "2026-10-30T20:59:40Z",
   "last_status": "error:ssl",
-  "last_swap_hit": "2026-11-02T16:51:45Z",
+  "last_swap_hit": "2026-11-02T21:40:23Z",
   "miss_streak": 4,
   "stale": false,
   "swap": "gn-corn-bull",
@@ -422,8 +422,8 @@
   "terms": "unknown"
  },
  "dht-holdings-investor-relations-quarterly-result": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:49Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:25Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -431,8 +431,8 @@
   "terms": "unknown"
  },
  "eia-api-v2-weekly-crude-stocks": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -440,8 +440,8 @@
   "terms": "ok"
  },
  "eia-api-v2-weekly-natgas-storage": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -449,8 +449,8 @@
   "terms": "ok"
  },
  "eia-natgas-storage-thursday": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:28Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -466,8 +466,8 @@
   "terms": "ok"
  },
  "eia-steo": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:29Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -475,8 +475,8 @@
   "terms": "unknown"
  },
  "eia-this-week-in-petroleum": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:16Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -484,8 +484,8 @@
   "terms": "unknown"
  },
  "eia-today-in-energy-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:54Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:30Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -493,8 +493,8 @@
   "terms": "ok"
  },
  "eia-wpsr": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:54Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:31Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -502,10 +502,10 @@
   "terms": "unknown"
  },
  "etf-com-fund-flows-tool": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:54:53Z",
+  "last_swap_hit": "2026-11-02T21:43:32Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-etf-com-fund-flows-tool",
@@ -513,8 +513,8 @@
   "terms": "unknown"
  },
  "farm-progress": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -522,8 +522,8 @@
   "terms": "ok"
  },
  "fb-agweb": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:08Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -531,8 +531,8 @@
   "terms": "ok"
  },
  "fb-baker-hughes-rig-count": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -540,8 +540,8 @@
   "terms": "ok"
  },
  "fb-bhp-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -549,8 +549,8 @@
   "terms": "ok"
  },
  "fb-bls-calendar-ics": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -558,8 +558,8 @@
   "terms": "ok"
  },
  "fb-bls-release-calendar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -567,8 +567,8 @@
   "terms": "ok"
  },
  "fb-bolsa-de-cereales-buenos-aires-weekly": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -576,8 +576,8 @@
   "terms": "ok"
  },
  "fb-centcom-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -585,8 +585,8 @@
   "terms": "ok"
  },
  "fb-cme-fedwatch": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:56Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -594,8 +594,8 @@
   "terms": "ok"
  },
  "fb-eia-natgas-storage-thursday": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -603,8 +603,8 @@
   "terms": "ok"
  },
  "fb-etf-com-fund-flows-tool": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:56Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -612,8 +612,8 @@
   "terms": "ok"
  },
  "fb-fred-dexbzus-brl-per-usd": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:38Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:14Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -621,8 +621,8 @@
   "terms": "ok"
  },
  "fb-fred-dfii10-10y-real-yield": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:40Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:17Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -630,8 +630,8 @@
   "terms": "ok"
  },
  "fb-fred-dtwexbgs-broad-dollar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:45Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -639,8 +639,8 @@
   "terms": "ok"
  },
  "fb-fred-gvzcls-gold-vol": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -648,8 +648,8 @@
   "terms": "ok"
  },
  "fb-fred-ovxcls-crude-vol": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -657,8 +657,8 @@
   "terms": "ok"
  },
  "fb-iran-mfa-english": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -666,8 +666,8 @@
   "terms": "ok"
  },
  "fb-israel-pmo": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:03Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -675,8 +675,8 @@
   "terms": "ok"
  },
  "fb-lme-copper-warehouse-stocks": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -684,8 +684,8 @@
   "terms": "ok"
  },
  "fb-opec-momr": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -693,8 +693,8 @@
   "terms": "ok"
  },
  "fb-opec-momr-2": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -702,8 +702,8 @@
   "terms": "ok"
  },
  "fb-opec-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:03Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -711,8 +711,8 @@
   "terms": "ok"
  },
  "fb-opec-press-room": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -720,8 +720,8 @@
   "terms": "ok"
  },
  "fb-s-p-global-platts-commodity-insights-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -729,8 +729,8 @@
   "terms": "ok"
  },
  "fb-state-dept-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:03Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -738,8 +738,8 @@
   "terms": "ok"
  },
  "fb-usda-wasde": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -747,8 +747,8 @@
   "terms": "ok"
  },
  "fb-xp-investimentos-macro": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -756,8 +756,8 @@
   "terms": "ok"
  },
  "fed-beige-book": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:17Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -765,8 +765,8 @@
   "terms": "unknown"
  },
  "fed-fomc-calendar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -774,8 +774,8 @@
   "terms": "unknown"
  },
  "fed-h-15-rates": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -783,8 +783,8 @@
   "terms": "unknown"
  },
  "fed-press-releases-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:33Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -792,8 +792,8 @@
   "terms": "ok"
  },
  "fed-speeches-calendar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:17Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -801,8 +801,8 @@
   "terms": "unknown"
  },
  "federal-register-api-ofac-documents": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:26Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:05Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -810,8 +810,8 @@
   "terms": "ok"
  },
  "folha-mercado": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:34Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:08Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -819,8 +819,8 @@
   "terms": "ok"
  },
  "fomc-minutes": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -828,8 +828,8 @@
   "terms": "unknown"
  },
  "fred-dexbzus-brl-per-usd": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:33Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -837,8 +837,8 @@
   "terms": "unknown"
  },
  "fred-dfii10-10y-real-yield": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:34Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -846,8 +846,8 @@
   "terms": "unknown"
  },
  "fred-dtwexbgs-broad-dollar": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:59Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:34Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -855,8 +855,8 @@
   "terms": "unknown"
  },
  "fred-gvzcls-gold-vol": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -864,8 +864,8 @@
   "terms": "unknown"
  },
  "fred-ovxcls-crude-vol": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:51:24Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:39:59Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -873,8 +873,8 @@
   "terms": "unknown"
  },
  "freeport-mcmoran-ir": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:06Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -882,8 +882,8 @@
   "terms": "unknown"
  },
  "frontline-investor-relations-quarterly-results-d": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -891,8 +891,8 @@
   "terms": "unknown"
  },
  "frontline-ir": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -900,8 +900,8 @@
   "terms": "unknown"
  },
  "gcaptain": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:09Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -909,32 +909,32 @@
   "terms": "ok"
  },
  "gdelt-doc-brazil": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:35Z",
-  "last_status": "ok",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-01T21:55:52Z",
+  "last_status": "429",
   "last_swap_hit": "2026-10-30T23:32:18Z",
-  "miss_streak": 0,
+  "miss_streak": 1,
   "stale": false,
   "swap": null,
   "swap_status": "ok",
   "terms": "ok"
  },
  "gdelt-doc-copper": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:35Z",
-  "last_status": "ok",
-  "last_swap_hit": "2026-10-30T23:32:18Z",
-  "miss_streak": 0,
-  "stale": false,
-  "swap": null,
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-10-31T17:01:20Z",
+  "last_status": "429",
+  "last_swap_hit": "2026-11-02T21:42:09Z",
+  "miss_streak": 2,
+  "stale": true,
+  "swap": "gn-copper-bull",
   "swap_status": "ok",
   "terms": "ok"
  },
  "gdelt-doc-corn": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": "2026-10-30T23:32:19Z",
   "last_status": "429",
-  "last_swap_hit": "2026-11-02T16:53:35Z",
+  "last_swap_hit": "2026-11-02T21:42:11Z",
   "miss_streak": 3,
   "stale": true,
   "swap": "gn-corn-bull",
@@ -942,7 +942,7 @@
   "terms": "ok"
  },
  "gdelt-doc-gold": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": "2026-11-01T21:55:58Z",
   "last_status": "429",
   "last_swap_hit": "2026-10-30T21:01:33Z",
@@ -953,41 +953,41 @@
   "terms": "ok"
  },
  "gdelt-doc-oil": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-10-30T21:01:38Z",
-  "last_status": "429",
-  "last_swap_hit": "2026-11-02T16:53:45Z",
-  "miss_streak": 4,
-  "stale": true,
-  "swap": "gn-oil-bull",
-  "swap_status": "ok",
-  "terms": "ok"
- },
- "gdelt-doc-tankers": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:45Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:17Z",
   "last_status": "ok",
-  "last_swap_hit": "2026-11-01T21:56:07Z",
+  "last_swap_hit": "2026-11-01T21:56:03Z",
   "miss_streak": 0,
   "stale": false,
   "swap": null,
   "swap_status": "ok",
   "terms": "ok"
  },
+ "gdelt-doc-tankers": {
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-10-30T23:32:30Z",
+  "last_status": "429",
+  "last_swap_hit": "2026-11-02T21:42:20Z",
+  "miss_streak": 3,
+  "stale": true,
+  "swap": "gn-tankers-bull",
+  "swap_status": "ok",
+  "terms": "ok"
+ },
  "gdelt-doc-wheat": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": "2026-10-31T17:01:37Z",
   "last_status": "429",
-  "last_swap_hit": "2026-11-02T16:53:47Z",
+  "last_swap_hit": "2026-11-02T21:42:22Z",
   "miss_streak": 2,
-  "stale": false,
+  "stale": true,
   "swap": "gn-wheat-bull",
   "swap_status": "ok",
   "terms": "ok"
  },
  "gn-baltic-prints-hsn-mirror": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -995,8 +995,8 @@
   "terms": "ok"
  },
  "gn-brasil-alta-pt-br": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1004,8 +1004,8 @@
   "terms": "ok"
  },
  "gn-brasil-queda-pt-br": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:54Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:25Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1013,8 +1013,8 @@
   "terms": "ok"
  },
  "gn-brazil-bear-en": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1022,8 +1022,8 @@
   "terms": "ok"
  },
  "gn-brazil-bull-en": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:29Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1031,8 +1031,8 @@
   "terms": "ok"
  },
  "gn-cme-fedwatch-mirror": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1040,8 +1040,8 @@
   "terms": "ok"
  },
  "gn-copom-expectativa-selic-pt-br": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:11Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1049,8 +1049,8 @@
   "terms": "ok"
  },
  "gn-copper-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:29Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1058,8 +1058,8 @@
   "terms": "ok"
  },
  "gn-copper-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:59Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1067,8 +1067,8 @@
   "terms": "ok"
  },
  "gn-corn-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:59Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1076,8 +1076,8 @@
   "terms": "ok"
  },
  "gn-corn-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:34Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1085,8 +1085,8 @@
   "terms": "ok"
  },
  "gn-crop-progress-poll": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:11Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1094,8 +1094,8 @@
   "terms": "ok"
  },
  "gn-eia-crude-consensus-api-investinglive": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1103,8 +1103,8 @@
   "terms": "ok"
  },
  "gn-fed-dove": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:34Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1112,8 +1112,8 @@
   "terms": "ok"
  },
  "gn-fed-hawk": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:04Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1121,8 +1121,8 @@
   "terms": "ok"
  },
  "gn-frontline-fro": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1130,8 +1130,8 @@
   "terms": "ok"
  },
  "gn-gold-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1139,8 +1139,8 @@
   "terms": "ok"
  },
  "gn-gold-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:49Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1148,8 +1148,8 @@
   "terms": "ok"
  },
  "gn-goldman-citi-copper-forecasts": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:20Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:57Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1157,8 +1157,8 @@
   "terms": "ok"
  },
  "gn-helima-croft": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:04Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1166,8 +1166,8 @@
   "terms": "ok"
  },
  "gn-javier-blas-bloomberg": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1175,8 +1175,8 @@
   "terms": "ok"
  },
  "gn-karen-braun": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:20Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:57Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1184,8 +1184,8 @@
   "terms": "ok"
  },
  "gn-nfp-consensus-reuters-poll": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:25Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:02Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1193,8 +1193,8 @@
   "terms": "ok"
  },
  "gn-nick-timiraos": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:25Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:02Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1202,8 +1202,8 @@
   "terms": "ok"
  },
  "gn-oil-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:49Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1211,8 +1211,8 @@
   "terms": "ok"
  },
  "gn-oil-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1220,8 +1220,8 @@
   "terms": "ok"
  },
  "gn-oil-de-escalation": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1229,8 +1229,8 @@
   "terms": "ok"
  },
  "gn-oil-escalation": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:20Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:57Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1238,8 +1238,8 @@
   "terms": "ok"
  },
  "gn-pesquisas-eleitorais-pt-br": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:21Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:02Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1247,8 +1247,8 @@
   "terms": "ok"
  },
  "gn-rapidan-eurasia": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:55:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1256,8 +1256,8 @@
   "terms": "ok"
  },
  "gn-reuters-analysts-expect-eia-crude": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:23Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:55Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1265,8 +1265,8 @@
   "terms": "ok"
  },
  "gn-reuters-markets": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:49Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:21Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1274,8 +1274,8 @@
   "terms": "ok"
  },
  "gn-reuters-oil": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1283,8 +1283,8 @@
   "terms": "ok"
  },
  "gn-risk-off-spy-gauge": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:25Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1292,8 +1292,8 @@
   "terms": "ok"
  },
  "gn-risk-on-spy-gauge": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1301,8 +1301,8 @@
   "terms": "ok"
  },
  "gn-tankers-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:17Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1310,8 +1310,8 @@
   "terms": "ok"
  },
  "gn-tankers-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:40Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1319,8 +1319,8 @@
   "terms": "ok"
  },
  "gn-ukmto-recent-incidents": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1328,8 +1328,8 @@
   "terms": "ok"
  },
  "gn-us-cpi-consensus-reuters-poll": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1337,8 +1337,8 @@
   "terms": "ok"
  },
  "gn-wasde-previews-allendale-agresource-farm-futu": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:35Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1346,8 +1346,8 @@
   "terms": "ok"
  },
  "gn-wasde-trade-estimates": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:40Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:17Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1355,8 +1355,8 @@
   "terms": "ok"
  },
  "gn-wheat-bear": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:45Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1364,8 +1364,8 @@
   "terms": "ok"
  },
  "gn-wheat-bull": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1373,8 +1373,8 @@
   "terms": "ok"
  },
  "grain-central-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:46Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1382,8 +1382,8 @@
   "terms": "ok"
  },
  "hellenic-shipping-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1391,8 +1391,8 @@
   "terms": "ok"
  },
  "icsg-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:54Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1400,10 +1400,10 @@
   "terms": "unknown"
  },
  "iea-oil-market-report-monthly-highlights": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:19Z",
+  "last_swap_hit": "2026-11-02T21:40:54Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-oil-bull",
@@ -1411,8 +1411,8 @@
   "terms": "unknown"
  },
  "imf-portwatch": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:38Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1420,8 +1420,8 @@
   "terms": "unknown"
  },
  "imf-portwatch-hormuz-daily-transits-arcgis-json": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1429,8 +1429,8 @@
   "terms": "ok"
  },
  "infomoney": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:51Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1438,8 +1438,8 @@
   "terms": "ok"
  },
  "iran-mfa-english": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:26Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:05Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1447,10 +1447,10 @@
   "terms": "unknown"
  },
  "israel-pmo": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:27Z",
+  "last_swap_hit": "2026-11-02T21:41:05Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-israel-pmo",
@@ -1458,10 +1458,10 @@
   "terms": "unknown"
  },
  "jmic-advisories": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:11Z",
+  "last_swap_hit": "2026-11-02T21:41:42Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-ukmto-recent-incidents",
@@ -1469,8 +1469,8 @@
   "terms": "unknown"
  },
  "joseph-wang-fedguy": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:42Z",
   "last_status": "ok",
   "last_swap_hit": "2026-10-30T21:05:03Z",
   "miss_streak": 0,
@@ -1480,8 +1480,8 @@
   "terms": "ok"
  },
  "kalshi-markets-read-only": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:26Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1489,8 +1489,8 @@
   "terms": "ok"
  },
  "kpler-insights-blog": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:47Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:22Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1498,8 +1498,8 @@
   "terms": "unknown"
  },
  "kremlin-ru-english-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:29Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:05Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1507,10 +1507,10 @@
   "terms": "ok"
  },
  "lme-copper-warehouse-stocks": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:24Z",
+  "last_swap_hit": "2026-11-02T21:41:57Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-lme-copper-warehouse-stocks",
@@ -1518,8 +1518,8 @@
   "terms": "unknown"
  },
  "metals-focus": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1527,10 +1527,10 @@
   "terms": "unknown"
  },
  "mining-com": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:54:51Z",
+  "last_swap_hit": "2026-11-02T21:43:27Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-copper-bull",
@@ -1538,8 +1538,8 @@
   "terms": "ok"
  },
  "nd-mais-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:51Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1547,8 +1547,8 @@
   "terms": "ok"
  },
  "noaa-cpc-6-10-day-outlook": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:04Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1556,8 +1556,8 @@
   "terms": "unknown"
  },
  "noaa-cpc-8-14-day-outlook": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1565,8 +1565,8 @@
   "terms": "unknown"
  },
  "noaa-nhc-outlook-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1574,8 +1574,8 @@
   "terms": "ok"
  },
  "ofac-recent-actions": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:06Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1583,8 +1583,8 @@
   "terms": "unknown"
  },
  "ofac-recent-actions-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:30Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:07Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1592,8 +1592,8 @@
   "terms": "ok"
  },
  "oilprice-com-main": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:51Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:28Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1601,10 +1601,10 @@
   "terms": "ok"
  },
  "opec-momr": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:11Z",
+  "last_swap_hit": "2026-11-02T21:41:43Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-opec-momr-2",
@@ -1612,10 +1612,10 @@
   "terms": "unknown"
  },
  "opec-momr-monthly-layer-d": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:21Z",
+  "last_swap_hit": "2026-11-02T21:40:59Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-oil-bull",
@@ -1623,10 +1623,10 @@
   "terms": "unknown"
  },
  "opec-momr-press-sources-md-22": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:11Z",
+  "last_swap_hit": "2026-11-02T21:41:43Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-oil-bull",
@@ -1634,10 +1634,10 @@
   "terms": "unknown"
  },
  "opec-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:32Z",
+  "last_swap_hit": "2026-11-02T21:41:10Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-opec-press-releases",
@@ -1645,10 +1645,10 @@
   "terms": "unknown"
  },
  "opec-press-room": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:12Z",
+  "last_swap_hit": "2026-11-02T21:41:44Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-opec-press-room",
@@ -1656,8 +1656,8 @@
   "terms": "unknown"
  },
  "planalto-brazil-presidency-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:33Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:10Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1665,8 +1665,8 @@
   "terms": "unknown"
  },
  "poder360-pesquisas-poderdata": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:52Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:28Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1674,8 +1674,8 @@
   "terms": "unknown"
  },
  "polymarket-gamma-read-only": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1683,8 +1683,8 @@
   "terms": "ok"
  },
  "rio-times-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:52Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:29Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1692,10 +1692,10 @@
   "terms": "ok"
  },
  "s-p-global-platts-commodity-insights-news": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:53:25Z",
+  "last_swap_hit": "2026-11-02T21:41:58Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-s-p-global-platts-commodity-insights-news",
@@ -1703,8 +1703,8 @@
   "terms": "unknown"
  },
  "scorpio-tankers-ir": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:12Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1712,10 +1712,10 @@
   "terms": "unknown"
  },
  "secex-mdic-trade-balance-weekly": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "error:ssl",
-  "last_swap_hit": "2026-11-02T16:52:05Z",
+  "last_swap_hit": "2026-11-02T21:40:42Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-brazil-bull-en",
@@ -1723,10 +1723,10 @@
   "terms": "unknown"
  },
  "sernageomin": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "error:ssl",
-  "last_swap_hit": "2026-11-02T16:52:05Z",
+  "last_swap_hit": "2026-11-02T21:40:43Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-copper-bull",
@@ -1734,8 +1734,8 @@
   "terms": "unknown"
  },
  "shfe-english-weekly-warehouse-stocks": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:26Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:02Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1743,8 +1743,8 @@
   "terms": "unknown"
  },
  "shfe-weekly-inventory-copper-warehouse-stocks": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:44Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1752,8 +1752,8 @@
   "terms": "unknown"
  },
  "spdr-gld-holdings": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:50Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1761,8 +1761,8 @@
   "terms": "unknown"
  },
  "splash247": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:52Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:29Z",
   "last_status": "ok",
   "last_swap_hit": "2026-10-31T17:02:42Z",
   "miss_streak": 0,
@@ -1772,10 +1772,10 @@
   "terms": "ok"
  },
  "state-dept-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:34Z",
+  "last_swap_hit": "2026-11-02T21:41:12Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-state-dept-press-releases",
@@ -1783,10 +1783,10 @@
   "terms": "unknown"
  },
  "state-dept-press-releases-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:35Z",
+  "last_swap_hit": "2026-11-02T21:41:12Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-state-dept-press-releases",
@@ -1794,8 +1794,8 @@
   "terms": "ok"
  },
  "stockanalysis-fro-quote-gate-price-fallback": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1803,8 +1803,8 @@
   "terms": "unknown"
  },
  "suez-canal-authority": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:15Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1812,8 +1812,8 @@
   "terms": "unknown"
  },
  "teucrium-corn-fund": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1821,8 +1821,8 @@
   "terms": "unknown"
  },
  "tradingeconomics-calendar-consensus-column": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1830,8 +1830,8 @@
   "terms": "unknown"
  },
  "tradingeconomics-fro-quote-gate-price-fallback": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:05Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:44:42Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1839,8 +1839,8 @@
   "terms": "unknown"
  },
  "tradingeconomics-us-crude-stocks-change": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:56Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1848,8 +1848,8 @@
   "terms": "unknown"
  },
  "tradingeconomics-us-natgas-stocks-change": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:57Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1857,8 +1857,8 @@
   "terms": "unknown"
  },
  "treasury-press-releases": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:39Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:12Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1866,19 +1866,17 @@
   "terms": "unknown"
  },
  "treasury-real-yield-curve-daily-table": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-10-31T16:59:57Z",
-  "last_status": "error:parse-ImportError",
-  "last_swap_hit": "2026-11-02T16:52:06Z",
-  "miss_streak": 2,
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:44Z",
+  "last_status": "ok",
+  "miss_streak": 0,
   "stale": false,
-  "swap": "gn-gold-bull",
-  "swap_status": "ok",
+  "swap": null,
   "terms": "unknown"
  },
  "truth-social-mirror-trumpstruth-org-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:03Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:39Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1886,8 +1884,8 @@
   "terms": "ok"
  },
  "tse-results": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:09Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:44Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1895,8 +1893,8 @@
   "terms": "unknown"
  },
  "ukmto-advisories": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:18Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1904,8 +1902,8 @@
   "terms": "unknown"
  },
  "ukmto-recent-incidents-page": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:52Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1913,10 +1911,10 @@
   "terms": "unknown"
  },
  "ukraine-mfa-english": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:40Z",
+  "last_swap_hit": "2026-11-02T21:41:16Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-wheat-bull",
@@ -1924,8 +1922,8 @@
   "terms": "unknown"
  },
  "us-drought-monitor": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:10Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:47Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1933,8 +1931,8 @@
   "terms": "unknown"
  },
  "uscf-bno-fund": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1942,8 +1940,8 @@
   "terms": "unknown"
  },
  "uscf-ung-fund": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:55Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:27Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1951,8 +1949,8 @@
   "terms": "unknown"
  },
  "usda-ams-grain-transportation-report": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:21Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:59Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1960,8 +1958,8 @@
   "terms": "unknown"
  },
  "usda-crop-progress-cornell-mirror": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:11Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:48Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1969,8 +1967,8 @@
   "terms": "unknown"
  },
  "usda-ers-feed-outlook": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:21Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:59Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1978,8 +1976,8 @@
   "terms": "unknown"
  },
  "usda-ers-wheat-outlook": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:22Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:00Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1987,8 +1985,8 @@
   "terms": "unknown"
  },
  "usda-fas-esr": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:11Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:48Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -1996,10 +1994,10 @@
   "terms": "unknown"
  },
  "usda-fas-export-sales-esr-api": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:12Z",
+  "last_swap_hit": "2026-11-02T21:40:49Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-corn-bull",
@@ -2007,10 +2005,10 @@
   "terms": "ok"
  },
  "usda-fas-export-sales-weekly-highlights-pdf": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "error:http404",
-  "last_swap_hit": "2026-11-02T16:52:12Z",
+  "last_swap_hit": "2026-11-02T21:40:49Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-corn-bull",
@@ -2018,7 +2016,7 @@
   "terms": "unknown"
  },
  "usda-nass-quick-stats-api-corn-harvested": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "skipped:no_key",
   "miss_streak": 0,
@@ -2027,10 +2025,10 @@
   "terms": "ok"
  },
  "usda-wasde": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:52:14Z",
+  "last_swap_hit": "2026-11-02T21:40:49Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-usda-wasde",
@@ -2038,8 +2036,8 @@
   "terms": "unknown"
  },
  "usda-wasde-cornell-mirror": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:16Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:40:50Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2047,10 +2045,10 @@
   "terms": "unknown"
  },
  "usda-wasde-nass-quickstats-api-sources-md-6": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "robots",
-  "last_swap_hit": "2026-11-02T16:52:16Z",
+  "last_swap_hit": "2026-11-02T21:40:53Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "gn-corn-bull",
@@ -2058,8 +2056,8 @@
   "terms": "unknown"
  },
  "valor-economico-globo-feed": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:54:52Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:43:30Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2067,8 +2065,8 @@
   "terms": "ok"
  },
  "vortexa-insights": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:56:57Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:33Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2076,8 +2074,8 @@
   "terms": "unknown"
  },
  "wgc-gold-demand-trends-goldhub": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:28Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:42:02Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2085,8 +2083,8 @@
   "terms": "unknown"
  },
  "wgc-gold-etf-flows": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:56Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:32Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2094,8 +2092,8 @@
   "terms": "unknown"
  },
  "white-house-news-briefings-statements-presidenti": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:45Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:17Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2103,8 +2101,8 @@
   "terms": "unknown"
  },
  "white-house-presidential-actions-rss": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:52:45Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:20Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2112,8 +2110,8 @@
   "terms": "ok"
  },
  "windward-maritime-ai-blog": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:57:00Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:45:37Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
@@ -2121,10 +2119,10 @@
   "terms": "unknown"
  },
  "xp-investimentos-macro": {
-  "last_attempt": "2026-11-02T16:51:19Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
   "last_hit": null,
   "last_status": "403",
-  "last_swap_hit": "2026-11-02T16:57:00Z",
+  "last_swap_hit": "2026-11-02T21:45:37Z",
   "miss_streak": 27,
   "stale": true,
   "swap": "fb-xp-investimentos-macro",
@@ -2132,8 +2130,8 @@
   "terms": "ok"
  },
  "yahoo-chart-api-prices": {
-  "last_attempt": "2026-11-02T16:51:19Z",
-  "last_hit": "2026-11-02T16:53:20Z",
+  "last_attempt": "2026-11-02T21:39:53Z",
+  "last_hit": "2026-11-02T21:41:53Z",
   "last_status": "ok",
   "miss_streak": 0,
   "stale": false,
