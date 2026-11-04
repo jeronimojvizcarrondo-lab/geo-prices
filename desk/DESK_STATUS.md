@@ -1,10 +1,10 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-11-04T19:46:23Z — status: OK
-- Price file age: 0.9 hours (generated 2026-11-04T18:53:54Z, read from raw-url) — not stale.
+- v6 Actions 2026-11-04T22:11:41Z — status: OK
+- Price file age: 3.3 hours (generated 2026-11-04T18:53:54Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 186 ok / 40 missing / 40 swapped; 1 skipped (key not set).
-- Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=1 open=2 · mean R -1.03 · mean twin_R -1.03 · diff +0.00 · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 1.03R · logged-before-fill 0/3 · open marks Σ +4.55R
+- Source health: 188 ok / 38 missing / 37 swapped; 1 skipped (key not set).
+- Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=2 open=3 · mean R +1.74 · mean twin_R -0.24 · diff +1.98 · bootstrap 90% lower bound of diff +0.00 (10,000 resamples, seed 7) · max drawdown 1.03R · logged-before-fill 2/5 · open marks Σ -1.04R
 
 ## Gate verdict by market
 
