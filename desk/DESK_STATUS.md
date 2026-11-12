@@ -1,10 +1,10 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-11-12T19:55:40Z — status: OK
-- Price file age: 0.7 hours (generated 2026-11-12T19:12:55Z, read from raw-url) — not stale.
+- v6 Actions 2026-11-12T22:31:04Z — status: OK
+- Price file age: 3.3 hours (generated 2026-11-12T19:12:55Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 185 ok / 41 missing / 39 swapped; 1 skipped (key not set).
-- Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=3 open=4 · mean R +0.82 · mean twin_R -0.51 · diff +1.33 · bootstrap 90% lower bound of diff +0.00 (10,000 resamples, seed 7) · max drawdown 1.03R · logged-before-fill 3/7 · open marks Σ -0.57R
+- Source health: 187 ok / 39 missing / 37 swapped; 1 skipped (key not set).
+- Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=3 open=4 · mean R +0.82 · mean twin_R -0.47 · diff +1.29 · bootstrap 90% lower bound of diff +0.00 (10,000 resamples, seed 7) · max drawdown 1.03R · logged-before-fill 3/7 · open marks Σ -0.73R
 
 ## Gate verdict by market
 
@@ -23,25 +23,25 @@ Legs (a) verified driver, (b) trigger, (f) desk-written opposing case are suppli
 ## Gate evidence
 
 - oil long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Hormuz war A: na
 - oil short: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Hormuz war B: na
 - tankers long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Shadow-fleet sanctions B: na
 - copper long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Chile copper labour B: na
 - corn long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) US harvest / grains B: fail
 - wheat long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Black Sea / Ukraine B: fail
 - gold long: (a) none in window
-  - (f) gate_inputs.json written 212 h ago (> 24 h)
+  - (f) gate_inputs.json written 215 h ago (> 24 h)
   - (b) Fed / real yields A: na
 
 ## Gate (b) clauses
