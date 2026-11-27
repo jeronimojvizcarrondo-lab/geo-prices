@@ -1,9 +1,9 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-11-27T00:51:15Z — status: OK
-- Price file age: 4.3 hours (generated 2026-11-26T20:34:50Z, read from raw-url) — not stale.
+- v6 Actions 2026-11-27T02:47:39Z — status: OK
+- Price file age: 0.4 hours (generated 2026-11-27T02:26:11Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 180 ok / 46 missing / 43 swapped; 1 skipped (key not set).
+- Source health: 184 ok / 42 missing / 40 swapped; 1 skipped (key not set).
 - Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=7 open=0 · mean R +0.33 · mean twin_R -0.01 · diff +0.34 · bootstrap 90% lower bound of diff -0.37 (10,000 resamples, seed 7) · max drawdown 2.04R · logged-before-fill 3/7 · open marks Σ +0.00R
 
 ## Gate verdict by market
@@ -23,25 +23,25 @@ Legs (a) verified driver, (b) trigger, (f) desk-written opposing case are suppli
 ## Gate evidence
 
 - oil long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Hormuz war A: na
 - oil short: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Hormuz war B: na
 - tankers long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Shadow-fleet sanctions B: na
 - copper long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Chile copper labour B: na
 - corn long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) US harvest / grains B: fail
 - wheat long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Black Sea / Ukraine B: fail
 - gold long: (a) none in window
-  - (f) gate_inputs.json written 553 h ago (> 24 h)
+  - (f) gate_inputs.json written 555 h ago (> 24 h)
   - (b) Fed / real yields A: na
 
 ## Gate (b) clauses
@@ -55,7 +55,7 @@ Clauses extracted from the claude/THREADS.md trigger of the ticket for each mark
 | oil long | Hormuz war A | bridge BZ=F DIP_ZONE with trend UP | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
 | oil short | Hormuz war B | PortWatch Hormuz 7d mean of n_total ≥ /day | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
 | oil short | Hormuz war B | no new UKMTO warning number for 7 days | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
-| oil short | Hormuz war B | BZ=F close <100 | BZ=F < 100 | 91.73 | true | BZ=F.last 91.73 bar 2026-11-26 |
+| oil short | Hormuz war B | BZ=F close <100 | BZ=F < 100 | 92.27 | true | BZ=F.last 92.27 bar 2026-11-26 |
 | tankers long | Shadow-fleet sanctions B | = bridge FRO trend UP + DIP_ZONE | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
 | tankers long | Shadow-fleet sanctions B | a UKMTO warning number quoted by two outlets ≤72h — E7 ; today trend FLAT = not met | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
 | copper long | Chile copper labour B | = a company IR page or Sernageomin notice, dated after 16 Oct and ≤72h old, containing one mine name | - | - | not evaluable | needs documents / counts / polls / other data the job cannot read |
@@ -71,14 +71,14 @@ Clauses extracted from the claude/THREADS.md trigger of the ticket for each mark
 
 | symbol | last | 1d % | trend | dip_zone | asof |
 |---|---|---|---|---|---|
-| BZ=F | 91.73 | -3.04 | DOWN | False | 2026-11-26 |
+| BZ=F | 92.27 | -2.47 | DOWN | False | 2026-11-26 |
 | FRO | 47.65 | 0.25 | FLAT | False | 2026-11-25 |
-| HG=F | 5.4335 | 1.89 | DOWN | True | 2026-11-26 |
+| HG=F | 5.6255 | 5.49 | DOWN | False | 2026-11-26 |
 | ZC=F | 439.75 | 1.32 | DOWN | False | 2026-11-25 |
 | ZW=F | 565.5 | -0.75 | DOWN | False | 2026-11-25 |
-| GC=F | 3593.4 | 1.63 | DOWN | True | 2026-11-26 |
-| SI=F | 41.75 | 4.24 | DOWN | True | 2026-11-26 |
-| NG=F | 3.599 | 10.09 | UP | True | 2026-11-26 |
+| GC=F | 3645.5 | 3.1 | DOWN | True | 2026-11-26 |
+| SI=F | 43.29 | 8.08 | DOWN | False | 2026-11-26 |
+| NG=F | 3.594 | 9.94 | UP | True | 2026-11-26 |
 | EWZ | 30.16 | 2.94 | DOWN | True | 2026-11-25 |
 | SPY | 716.7 | -0.29 | DOWN | True | 2026-11-25 |
 | BNO | 59.4 | 2.86 | DOWN | True | 2026-11-25 |
