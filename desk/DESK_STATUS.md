@@ -1,9 +1,9 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-11-26T21:29:09Z — status: OK
-- Price file age: 0.9 hours (generated 2026-11-26T20:34:50Z, read from raw-url) — not stale.
+- v6 Actions 2026-11-27T00:51:15Z — status: OK
+- Price file age: 4.3 hours (generated 2026-11-26T20:34:50Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 182 ok / 44 missing / 41 swapped; 1 skipped (key not set).
+- Source health: 180 ok / 46 missing / 43 swapped; 1 skipped (key not set).
 - Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=7 open=0 · mean R +0.33 · mean twin_R -0.01 · diff +0.34 · bootstrap 90% lower bound of diff -0.37 (10,000 resamples, seed 7) · max drawdown 2.04R · logged-before-fill 3/7 · open marks Σ +0.00R
 
 ## Gate verdict by market
@@ -23,25 +23,25 @@ Legs (a) verified driver, (b) trigger, (f) desk-written opposing case are suppli
 ## Gate evidence
 
 - oil long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Hormuz war A: na
 - oil short: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Hormuz war B: na
 - tankers long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Shadow-fleet sanctions B: na
 - copper long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Chile copper labour B: na
 - corn long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) US harvest / grains B: fail
 - wheat long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Black Sea / Ukraine B: fail
 - gold long: (a) none in window
-  - (f) gate_inputs.json written 549 h ago (> 24 h)
+  - (f) gate_inputs.json written 553 h ago (> 24 h)
   - (b) Fed / real yields A: na
 
 ## Gate (b) clauses
