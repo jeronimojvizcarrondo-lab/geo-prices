@@ -1,9 +1,9 @@
 # DESK STATUS — v6 Actions, code-rendered, no model
 
-- v6 Actions 2026-11-28T00:17:18Z — status: OK
-- Price file age: 3.9 hours (generated 2026-11-27T20:21:07Z, read from raw-url) — not stale.
+- v6 Actions 2026-11-28T02:36:45Z — status: OK
+- Price file age: 0.4 hours (generated 2026-11-28T02:14:14Z, read from raw-url) — not stale.
 - API spend this month so far: $0.00 (hard limit $92, today $0.00).
-- Source health: 185 ok / 41 missing / 41 swapped; 1 skipped (key not set).
+- Source health: 181 ok / 45 missing / 40 swapped; 1 skipped (key not set).
 - Book 1: n=0 open=0 · mean R n/a · mean twin_R n/a · diff n/a · bootstrap 90% lower bound of diff n/a (10,000 resamples, seed 7) · max drawdown 0.00R · logged-before-fill 0/0 · open marks Σ +0.00R  //  Book 2: n=7 open=0 · mean R +0.33 · mean twin_R -0.01 · diff +0.34 · bootstrap 90% lower bound of diff -0.37 (10,000 resamples, seed 7) · max drawdown 2.04R · logged-before-fill 3/7 · open marks Σ +0.00R
 
 ## Gate verdict by market
@@ -23,25 +23,25 @@ Legs (a) verified driver, (b) trigger, (f) desk-written opposing case are suppli
 ## Gate evidence
 
 - oil long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Hormuz war A: na
 - oil short: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Hormuz war B: na
 - tankers long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Shadow-fleet sanctions B: na
 - copper long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Chile copper labour B: na
 - corn long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) US harvest / grains B: fail
 - wheat long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Black Sea / Ukraine B: fail
 - gold long: (a) none in window
-  - (f) gate_inputs.json written 576 h ago (> 24 h)
+  - (f) gate_inputs.json written 579 h ago (> 24 h)
   - (b) Fed / real yields A: na
 
 ## Gate (b) clauses
@@ -72,24 +72,24 @@ Clauses extracted from the claude/THREADS.md trigger of the ticket for each mark
 | symbol | last | 1d % | trend | dip_zone | asof |
 |---|---|---|---|---|---|
 | BZ=F | 90.84 | -3.98 | DOWN | True | 2026-11-27 |
-| FRO | 47.66 | 0.02 | FLAT | False | 2026-11-27 |
+| FRO | 47.65 | 0.25 | FLAT | False | 2026-11-25 |
 | HG=F | 5.6005 | 5.03 | DOWN | False | 2026-11-27 |
 | ZC=F | 463.0 | 5.29 | FLAT | False | 2026-11-27 |
 | ZW=F | 591.0 | 4.51 | DOWN | True | 2026-11-27 |
 | GC=F | 3668.5 | 3.75 | DOWN | False | 2026-11-27 |
 | SI=F | 43.7 | 9.11 | DOWN | False | 2026-11-27 |
 | NG=F | 3.491 | 6.79 | UP | True | 2026-11-27 |
-| EWZ | 33.12 | 9.81 | FLAT | False | 2026-11-27 |
-| SPY | 728.32 | 1.62 | DOWN | True | 2026-11-27 |
-| BNO | 58.93 | -0.79 | DOWN | True | 2026-11-27 |
-| SCO | 20.99 | 1.84 | FLAT | False | 2026-11-27 |
-| GLD | 334.4 | 2.12 | DOWN | True | 2026-11-27 |
-| CPER | 33.26 | 2.31 | DOWN | True | 2026-11-27 |
-| COPX | 61.34 | 4.57 | DOWN | True | 2026-11-27 |
-| CORN | 17.47 | 1.45 | FLAT | False | 2026-11-27 |
-| WEAT | 21.49 | 0.89 | DOWN | True | 2026-11-27 |
-| UNG | 9.84 | -4.47 | DOWN | False | 2026-11-27 |
-| SLV | 39.4 | 6.2 | DOWN | True | 2026-11-27 |
+| EWZ | 30.16 | 2.94 | DOWN | True | 2026-11-25 |
+| SPY | 716.7 | -0.29 | DOWN | True | 2026-11-25 |
+| BNO | 59.4 | 2.86 | DOWN | True | 2026-11-25 |
+| SCO | 20.61 | -2.83 | FLAT | False | 2026-11-25 |
+| GLD | 327.45 | 0.61 | DOWN | False | 2026-11-25 |
+| CPER | 32.51 | 0.03 | DOWN | False | 2026-11-25 |
+| COPX | 58.66 | 1.88 | DOWN | False | 2026-11-25 |
+| CORN | 17.22 | 1.29 | DOWN | True | 2026-11-25 |
+| WEAT | 21.3 | -0.23 | DOWN | True | 2026-11-25 |
+| UNG | 10.3 | -0.19 | FLAT | False | 2026-11-25 |
+| SLV | 37.1 | 0.71 | DOWN | False | 2026-11-25 |
 
 Real-yield data (FRED) newest date: 2026-10-27; stale: True.
 Gate legs not evaluable: fed real-yield leg.
